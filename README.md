@@ -70,3 +70,12 @@ install package
 !! #press tab to substitute 
 sudo install package
 ```
+
+## 5. Files
+
+### [`cp [options]`](https://ss64.com/bash/cp.html)
+
+```shell
+cp -a /source/. /dest/
+## copy source directory to dest
+```
