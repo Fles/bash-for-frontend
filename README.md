@@ -59,3 +59,14 @@ find ./Documents -name "files.*"
 ```shell
 find ./Documents -name "files.*"
 ```
+
+## 4. History
+
+### [`Previous command !!`](https://ss64.com/bash/historyexpansion)
+
+```shell
+install package
+## anfter the above execution type
+!! #press tab to substitute 
+sudo install package
+```
