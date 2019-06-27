@@ -62,6 +62,13 @@ find ./Documents -name "files.*"
 
 ## 4. History
 
+### [`history`](https://ss64.com/bash/history.html)
+
+```shell
+history | grep webpack
+# grep your bash history to quickly find instances with webpack
+```
+
 ### [`Previous command !!`](https://ss64.com/bash/historyexpansion)
 
 ```shell
