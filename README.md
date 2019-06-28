@@ -73,8 +73,9 @@ history | grep webpack
 
 ```shell
 install package
-## anfter the above execution type
-!! #press tab to substitute 
+## after the above execution type
+sudo !!
+# will become:
 sudo install package
 ```
 
