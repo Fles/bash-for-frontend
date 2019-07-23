@@ -73,7 +73,7 @@ history | grep webpack
 
 ```shell
 install package
-## after the above execution type
+# after the above execution type
 sudo !!
 # will become:
 sudo install package
@@ -85,5 +85,15 @@ sudo install package
 
 ```shell
 cp -a /source/. /dest/
-## copy source directory to dest
+# copy source directory to dest
+```
+
+### [`mv [options] source dest`](https://ss64.com/bash/mv.html)
+
+```shell
+mv apple orange.doc
+# rename the file apple as orange.doc
+
+mv orange.doc ~/Documents/orange.doc
+# move orange.doc to the Documents folder
 ```
