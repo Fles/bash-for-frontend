@@ -100,7 +100,7 @@ mv orange.doc ~/Documents/orange.doc
 
 ## 6. Variables
 
-### printenv `[option]... [variable]...`      
+### [`printenv [option] [variable]`](https://ss64.com/bash/printenv.html)
 ```shell
 printenv
 # List the names and values of all environment variables 
