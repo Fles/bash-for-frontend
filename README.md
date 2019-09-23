@@ -97,3 +97,11 @@ mv apple orange.doc
 mv orange.doc ~/Documents/orange.doc
 # move orange.doc to the Documents folder
 ```
+
+## 6. Variables
+
+### printenv `[option]... [variable]...`      
+```shell
+printenv
+# List the names and values of all environment variables 
+```
