@@ -1,7 +1,8 @@
 # aliases
 alias browse="find . -maxdepth 8 | sed 's/\.\///g' | sed 's/[^\/]*\//--/g'"
 alias la='ls -lhA --color=auto'
-alias ll='ls -lhA --color=auto'
+alias l='colorls -l --sd --gs'
+alias ll='colorls -lhA'
 alias ls='ls --color=auto'
 
 # not working... not installed?
