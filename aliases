@@ -1,0 +1,13 @@
+# aliases
+alias browse="find . -maxdepth 8 | sed 's/\.\///g' | sed 's/[^\/]*\//--/g'"
+alias la='ls -lhA --color=auto'
+alias ll='ls -lhA --color=auto'
+alias ls='ls --color=auto'
+
+# not working... not installed?
+alias cp='cp -i'
+
+# tmux split pane
+# (note these are switched to match vim's v:vertical split)
+alias tmsph='tmux split-window -v -p '
+alias tmspv='tmux split-window -h -p '
