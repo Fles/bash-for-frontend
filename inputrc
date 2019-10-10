@@ -4,5 +4,14 @@
 "\e[A": history-search-backward
 "\e[B": history-search-forward
 
+# or equivalently in ~/.bashrc
+if [[ $- == *i* ]]
+then
+    bind '"\e[A": history-search-backward'
+    bind '"\e[B": history-search-forward'
+fi
+# the if statement checks for interactive mode
+
 # This allows you to search through your history using the up and down arrows
 # i.e. type "cd" and press the up arrow and you'll search through everything in your history that starts with "cd".
+
