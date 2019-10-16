@@ -28,3 +28,6 @@ alias rm="rm -rf"
 
 # Clear screen and list folders all content
 alias cl="clear;ls -ha;pwd"
+
+# Prints disk usage in human readable form
+alias du="du -sh"
