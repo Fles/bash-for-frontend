@@ -25,3 +25,6 @@ alias qf="find . -name "
 
 # Remove file or folder 
 alias rm="rm -rf"
+
+# Clear screen and list folders all content
+alias cl="clear;ls -ha;pwd"
