@@ -22,3 +22,6 @@ alias c='clear'
 
 # Quickly search for file
 alias qf="find . -name " 			                                        
+
+# Remove file or folder 
+alias rm="rm -rf"
