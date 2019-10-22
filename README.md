@@ -105,3 +105,10 @@ mv orange.doc ~/Documents/orange.doc
 printenv
 # List the names and values of all environment variables 
 ```
+
+
+### [`env [option] [variable]`](https://ss64.com/bash/env.html)
+```shell
+env
+# Display, set, or remove environment variables, Run a command in a modified environment. 
+```
