@@ -46,6 +46,12 @@ head package.json
 # display first 10 lines of file content
 ```
 
+### [`cat <file> | pbcopy`]
+```shell
+cat .env | pbcopy
+# copy file content to clipboard
+```
+
 ## 3. Search
 
 ### [`find <dir> -name "<file>"`](https://ss64.com/bash/find.html)
