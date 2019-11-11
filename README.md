@@ -46,7 +46,7 @@ head package.json
 # display first 10 lines of file content
 ```
 
-### [`cat <file> | pbcopy`]
+### [`cat <file> | pbcopy`]()
 ```shell
 cat .env | pbcopy
 # copy file content to clipboard
