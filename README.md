@@ -39,6 +39,13 @@ less package.json
 # page through text one screenful at a time
 ```
 
+### [`tail [options]`](https://ss64.com/bash/tail.html)
+
+```shell
+tail package.json
+# output the last part of file (10 lines by default)
+```
+
 ### [`head <file>`](https://ss64.com/bash/head.html)
 
 ```shell
