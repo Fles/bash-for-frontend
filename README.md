@@ -125,3 +125,9 @@ printenv
 env
 # Display, set, or remove environment variables, Run a command in a modified environment. 
 ```
+
+### [`history | grep [your_search]`]()
+```shell
+history | grep grep
+# Search your command history for all grep commands you used.
+```
