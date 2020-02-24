@@ -131,3 +131,12 @@ env
 history | grep grep
 # Search your command history for all grep commands you used.
 ```
+
+## 7. Rest
+
+
+### [`w [-hi] [user ...]`](https://ss64.com/bash/w.html)
+```shell
+w
+# Display who is logged in and what they are doing. 
+```
