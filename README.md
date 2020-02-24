@@ -32,6 +32,13 @@ cat package.json
 # display the content of file(s)
 ```
 
+### [`tac [options]... [file]...`](https://ss64.com/bash/tac.html)
+
+```shell
+tac package.json
+# cat backwards (starting from the end)
+```
+
 ### [`less [options]`](https://ss64.com/bash/less.html)
 
 ```shell
