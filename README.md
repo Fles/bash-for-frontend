@@ -101,6 +101,13 @@ sudo install package
 
 ## 5. Files
 
+### [`ls | nl`](https://ss64.com/bash/ls.html)
+
+```shell
+ls | nl
+# List information about files and prepend line number
+```  
+
 ### [`cp [options]`](https://ss64.com/bash/cp.html)
 
 ```shell
