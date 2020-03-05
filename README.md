@@ -125,6 +125,13 @@ mv orange.doc ~/Documents/orange.doc
 # move orange.doc to the Documents folder
 ```
 
+### [`du -sh *`](https://ss64.com/bash/du.html)
+
+```shell
+du -sh *
+# list files and folders with their sizes
+```
+
 ## 6. Variables
 
 ### [`printenv [option] [variable]`](https://ss64.com/bash/printenv.html)
