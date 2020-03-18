@@ -68,15 +68,15 @@ cat .env | pbcopy
 
 ### [`wc`](https://ss64.com/bash/wc.html)
 ```shell
-wc -c file.txt 
-# prints the number of characters in file.txt
-wc -w file.txt 
-# prints the number of words in file.txt
-wc -l file.txt 
-# prints the number of lines in file.txt
+wc -c file.txt # prints the number of characters in file.txt 
+$ 442 file.txt 
+wc -w file.txt # prints the number of words in file.txt
+$ 142 file.txt 
+wc -l file.txt # prints the number of lines in file.txt
+$ 42 file.txt 
 
-cat file.txt | wc -l 
-# prints only the number of lines in file.txt
+cat file.txt | wc -l # prints only the number of lines in file.txt
+$ 42
 ```
 
 ## 3. Search
