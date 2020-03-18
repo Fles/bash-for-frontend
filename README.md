@@ -87,7 +87,7 @@ find ./Documents -name "files.*"
 ```shell
 history | grep webpack
 # grep your bash history to quickly find instances with webpack
-```
+``` 
 
 ### [`Previous command !!`](https://ss64.com/bash/historyexpansion)
 
@@ -145,12 +145,6 @@ printenv
 ```shell
 env
 # Display, set, or remove environment variables, Run a command in a modified environment. 
-```
-
-### [`history | grep [your_search]`]()
-```shell
-history | grep grep
-# Search your command history for all grep commands you used.
 ```
 
 ## 7. Rest
