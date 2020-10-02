@@ -1,4 +1,4 @@
-# Useful bash commands for-frontend development
+# Useful bash commands for frontend development
 
 ## 1. Navigation
 
