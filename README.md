@@ -162,9 +162,14 @@ env
 
 ## 7. Rest
 
-
 ### [`w [-hi] [user ...]`](https://ss64.com/bash/w.html)
 ```shell
 w
 # Display who is logged in and what they are doing. 
+```
+
+
+### [`ipconfig getifaddr en0`]()
+```shell
+# Display IP address you can access from diferent devices in development mode 
 ```
